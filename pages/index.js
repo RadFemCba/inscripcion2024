@@ -106,7 +106,7 @@ function addPresentacion() {
     <br><br>
 
     <p>Podés leer el Documento 35ENM haciendo 
-    <a href="https://drive.google.com/file/d/10obAIA10mW9ep1pnM8HHzuwTULNeEuI4/view?usp=drive_link" style="color: #EDF6F9;" target="_blank">click aquí</a>
+    <a href="https://drive.google.com/file/d/1oOVpDCxxBFoanK4QQlIGso3H5u0qaP2I/view?usp=sharing" style="color: #EDF6F9;" target="_blank">click aquí</a>
 
 
   </div>
